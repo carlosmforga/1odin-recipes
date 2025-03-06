@@ -9,3 +9,13 @@
     font-size: 30px;
     background-color: aquamarine;
 }
+
+.plain {
+    background-color: antiquewhite;
+}
+
+#why-not {
+    background-color: aqua;
+    font-size: medium;
+    font-weight: bold;
+}
