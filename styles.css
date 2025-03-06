@@ -3,3 +3,9 @@
     font-family: 'Times New Roman', Times, serif;
     color: #063986;
 }
+
+.bullets {
+    text-align: center;
+    font-size: 30px;
+    background-color: aquamarine;
+}
