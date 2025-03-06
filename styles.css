@@ -19,3 +19,19 @@
     font-size: medium;
     font-weight: bold;
 }
+
+li {
+    color: #f46e6e;
+    font-weight: bold;
+}
+
+ol li {
+    color: greenyellow;
+    font-weight: 100;
+    background-color: black;
+}
+
+a {
+    font-size: 50px;
+    font-weight: 900;
+}
