@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 .title-main {
     font-weight: 900;
     font-family: 'Times New Roman', Times, serif;
